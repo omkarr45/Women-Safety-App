@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        // "c:\\path\\to\\jarfile\\commons-logging-1.1.1.jar"
+        "C:\\Users\\pavan\\Desktop\\jar\\sqlite-jdbc-3.20.1.jar"
+    ]
+}
