@@ -1,7 +1,7 @@
 <h1 align ="center"> :information_desk_person: Naari :ok_woman: </h1>
 <h3 align ="center"> There is no tool for development more effective than the empowerment of women.</h3>
 
-![Image](https://github.com/danishsshaikh/Naari/blob/master/app/src/main/res/drawable/github.png)
+![Image](https://github.com/omkarr45/Women-Safety-App/blob/master/github.png)
 
 Naari Rakshak is an android app, a women safety app that allows the user to create their own safety network and take care of themselves. 
 The app is about safety/awareness & makes the user safe & confident. 
